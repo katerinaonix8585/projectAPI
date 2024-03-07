@@ -1,0 +1,31 @@
+[{
+    "title":"Geyerberg Castle",
+    "image": "./image/Geyersberg Castle.jpg",
+    "description":"description",
+    "link": "https://en.wikipedia.org/wiki/Se%C3%9Flach"
+},
+{
+    "title":"Geyerberg Castle",
+    "image": "./image/tor-von-der-stadt.jpg",
+    "description":"description",
+    "link": "https://en.wikipedia.org/wiki/Se%C3%9Flach"
+},
+{
+    "title":"Geyerberg Castle",
+    "image": "./image/Pfarrkirche St.Johannes des Täufers.jpg",
+    "description":"description",
+    "link": "https://en.wikipedia.org/wiki/Se%C3%9Flach"
+},
+{
+    "title":"Geyerberg Castle",
+    "image": "./image/museum.jpg",
+    "description":"description",
+    "link": "https://en.wikipedia.org/wiki/Se%C3%9Flach"
+},
+{
+    "title":"Geyerberg Castle",
+    "image": "./image/Geyersberg Castle.jpg",
+    "description":"description",
+    "link": "https://en.wikipedia.org/wiki/Se%C3%9Flach"
+}
+]
